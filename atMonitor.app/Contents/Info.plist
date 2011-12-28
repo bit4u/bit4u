@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>11B26</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>atMonitor</string>
+	<key>CFBundleGetInfoString</key>
+	<string>2.7b, Copyright © 2011 atPurpose. All Rights Reserved.</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>atMonitor Help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>atMonitor Help</string>
+	<key>CFBundleIconFile</key>
+	<string>atMonitor.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.atPurpose.atMonitor</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>atMonitor</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.7b</string>
+	<key>CFBundleSignature</key>
+	<string>atMO</string>
+	<key>CFBundleVersion</key>
+	<string>2.7.1</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>4B110</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>11A511a</string>
+	<key>DTSDKName</key>
+	<string>macosx10.7</string>
+	<key>DTXcode</key>
+	<string>0410</string>
+	<key>DTXcodeBuild</key>
+	<string>4B110</string>
+	<key>LSArchitecturePriority</key>
+	<array>
+		<string>x86_64</string>
+		<string>i386</string>
+	</array>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.5.0</string>
+	<key>LSMinimumSystemVersionByArchitecture</key>
+	<dict>
+		<key>i386</key>
+		<string>10.5.0</string>
+		<key>x86_64</key>
+		<string>10.7.0</string>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2011 atPurpose. All Rights Reserved.</string>
+	<key>NSMainNibFile</key>
+	<string>atMonitor</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>QuartzGLEnable</key>
+	<false/>
+	<key>SUAllowsAutomaticUpdates</key>
+	<false/>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>http://support.atPurpose.com/atMonitor/updates.xml</string>
+	<key>SUPublicDSAKeyFile</key>
+	<string>PUK.pem</string>
+	<key>SUScheduledCheckInterval</key>
+	<integer>86400</integer>
+</dict>
+</plist>
